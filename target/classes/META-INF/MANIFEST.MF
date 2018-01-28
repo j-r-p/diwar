@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: diwar
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: jayant.r.pathak
+Implementation-Vendor-Id: org.pirate
+Build-Jdk: 1.8.0_162
+Implementation-URL: http://projects.spring.io/spring-boot/spring-boot-
+ starter-parent/diwar/
+Created-By: Maven Integration for Eclipse
+
